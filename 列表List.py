@@ -2,11 +2,15 @@
 
 
 name = ['yanyang','zhangjiaseng','yangyi','guoqian','wanghuizheng']
-#æ·»åŠ 
-#name.append('youheng')  #ç›´æ¥æ·»åŠ åˆ°æœ€åé¢ç»“æœï¼š  ['yanyang', 'zhangjiaseng', 'yangyi', 'guoqian', 'wanghuizheng', 'youheng']
-#name.insert(0,'youheng')  #å…ˆè¾“å…¥æ’å…¥åˆ°ä»€ä¹ˆä½ç½®
+#Ìí¼Ó
+#name.append('youheng')  #Ö±½ÓÌí¼Óµ½×îºóÃæ½á¹û£º  ['yanyang', 'zhangjiaseng', 'yangyi', 'guoqian', 'wanghuizheng', 'youheng']
+#name.insert(0,'youheng')  #ÏÈÊäÈë²åÈëµ½Ê²Ã´Î»ÖÃ
 position = ['director']
-name.extend(position)   #extend æ‰©å±•åˆ—è¡¨ è¦ç”¨åˆ—è¡¨çš„å½¢å¼
+name.extend(position)   #extend À©Õ¹ÁĞ±í ÒªÓÃÁĞ±íµÄĞÎÊ½
 
 
 print(name)
+
+
+
+#github ×öÒ»´ÎĞŞ¸Ä¿´ÏÂ
